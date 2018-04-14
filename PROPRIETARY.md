@@ -1,6 +1,5 @@
-
-			<h2>PROJECT NONAME - Terms and conditions</h2>
-      <ol><li>
+<h2>PROJECT NONAME - Terms and conditions</h2>
+<ol><li>
 <p><strong>Preamble:</strong> This Agreement, signed on Apr 13, 2018 (hereinafter: Effective Date) governs the relationship between GITABOARD LLC, a Business Entity, (hereinafter: Licensee) and GITABOARD, a private person whose principal place of business is {location} (hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using PROJECT NONAME (hereinafter: The Software) created and owned by Licensor, as detailed herein</p>
 </li>
 <li>
